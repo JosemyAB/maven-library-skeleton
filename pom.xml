@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.empty</groupId>
-	<artifactId>empty-library</artifactId>
+	<artifactId>maven-library-skeleton</artifactId>
 	<version>1.0.0-SNAPSHOT</version>>
 	
 	<name>${project.groupId}:${project.artifactId}</name>
